@@ -1,0 +1,14 @@
+{
+  "name": "CRM Pampero Córdoba",
+  "short_name": "CRM Pampero",
+  "description": "Tablero comercial CRM de Pampero Córdoba",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0eeeb",
+  "theme_color": "#2563eb",
+  "lang": "es",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
